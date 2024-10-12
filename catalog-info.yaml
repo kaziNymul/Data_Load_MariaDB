@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Data_Load_MariaDB
+  annotations:
+    github.com/project-slug: kaziNymul/Data_Load_MariaDB
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
